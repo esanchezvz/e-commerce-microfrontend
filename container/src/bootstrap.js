@@ -1,4 +1,4 @@
-import 'products/list';
+import { mount } from 'products/list';
 import 'cart/text';
 
-console.log('Container');
+mount(document.querySelector('#my-products'));
