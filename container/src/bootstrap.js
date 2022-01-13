@@ -1,4 +1,4 @@
-import 'products/ProductsIndex';
-import 'cart/CartIndex';
+import 'products/list';
+import 'cart/text';
 
 console.log('Container');

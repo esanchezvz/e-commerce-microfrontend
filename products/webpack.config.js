@@ -14,7 +14,7 @@ module.exports = {
       name: 'products',
       filename: 'remoteEntry.js',
       exposes: {
-        './ProductsIndex': './src/index.js',
+        './list': './src/index.js',
       },
     }),
   ],
