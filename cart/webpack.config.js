@@ -16,6 +16,7 @@ module.exports = {
       exposes: {
         './text': './src/index.js',
       },
+      shared: ['faker'],
     }),
   ],
 };
